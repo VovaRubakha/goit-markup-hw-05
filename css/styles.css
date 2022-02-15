@@ -716,4 +716,5 @@ address .list + .list {
 .social-link:hover,
 .social-link:focus {
   background-color: var(--accent-color);
+}
 
